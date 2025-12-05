@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+header, footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+article {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    color: #222;
+}
+
+.meta {
+    color: #444;
+    font-size: 15px;
+}
+
+figure {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    width: 80%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+figcaption {
+    font-size: 14px;
+    color: #555;
+    margin-top: 5px;
+}
+
+footer {
+    font-size: 14px;
+    color: #333;
+}
